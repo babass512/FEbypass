@@ -15368,7 +15368,7 @@ Tab:Button{
 	Name = "Infinite Yield Server Side",
 	Description = nil,
 	Callback = function()
-        --Made By 07n7z
+        --Made By Fr3mo
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 local screenGui = Instance.new("ScreenGui", playerGui)
